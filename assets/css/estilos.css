@@ -1,0 +1,149 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Cabin", sans-serif;
+}
+
+.logo {
+  font-family: "Lobster", cursive;
+  font-size: 2.3rem;
+}
+
+.nav-link {
+  font-size: 1rem;
+  color: #fff;
+}
+
+img.principal {
+  width: 100%; 
+  height: auto;
+}
+
+#main-recipe {
+  padding-left: 0;
+}
+
+#main-recipe h5 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+h2.principal {
+  font-size: 2.5rem;
+/*   text-align: left; */
+  margin-top: 1rem;
+  font-weight: 700;
+  color: #373a3c;
+}
+
+h2.principal {
+    font-size: 2.5rem;
+/*     text-align: left; */
+    margin-top: 1rem;
+    font-weight: 700;
+    color: #373a3c;
+    text-align: center;
+}
+
+.tag {
+  display: inline-block;
+  border: #dddddd 1px solid;
+  padding: 0.2rem 0.5rem;
+  margin: 0.5rem 0.5rem;
+  font-size: 1rem;
+  color: #373a3c;
+  cursor: pointer;
+}
+
+hr.divisor {
+  color: #000000;
+  border-color: #000000;
+  height: 2px;
+}
+
+.carousel-indicators {
+    top: 105%;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #000000;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+div h6,p {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #373A3C;
+ 
+}
+
+.card-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color:#373A3C;
+
+}
+
+.bg-ricomida {
+    background-color: #DC3545;
+}
+
+#subs {
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}
+
+#subs h2{
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+#subs p{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+#subs p span {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+div .bg-dark{
+    background-color: #373A3C;
+}
+
+div.logo {
+    font-family: "Lobster", cursive;
+    font-size: 2.3rem;
+    color:#FFFFFF;
+    text-align: center;
+}
+
+.rojo{
+  color: #DC3545;
+}
+
+.tooltip-inner {
+  background-color: #373A3C;
+}
+
+.bs-tooltip-bottom .tooltip-arrow::before {
+    border-bottom-color: #373A3C;
+}
+
+.bs-tooltip-end .tooltip-arrow::before {
+    border-right-color: #373A3C;
+}
+
+.bs-tooltip-start .tooltip-arrow::before {
+    border-left-color: #373A3C;
+}
+
+.bs-tooltip-top .tooltip-arrow::before {
+    border-top-color: #373A3C;
+} 
